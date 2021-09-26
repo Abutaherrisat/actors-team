@@ -15,8 +15,8 @@ const Cart = (Props) => {
     return (
         <div className="cart-style">
             <div className = " actor-added">
-            <h3>{user} Actors Added :{Props.cart.length}</h3>
-            <h3>total Cost :${total}</h3>
+            <h3>{user} Actors Added: {Props.cart.length}</h3>
+            <h3>Total Cost: ${total}</h3>
             </div>
             <div className='added-actors'>
                 {
