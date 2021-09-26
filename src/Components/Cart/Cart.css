@@ -1,0 +1,14 @@
+.cart-style{
+    margin-top: 40px;
+    margin-left: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.actor-added{
+    color: white;
+    font-size: 17px;
+}

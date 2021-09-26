@@ -1,0 +1,13 @@
+.header{
+    background-color: darkslategray;
+    color: cornsilk;
+    text-align: center;
+    width: 85%;
+    padding: 20px;
+    border-radius: 10px; 
+    
+}
+.header-container{
+    display: flex;
+    justify-content: center;
+}

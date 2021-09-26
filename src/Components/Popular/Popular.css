@@ -1,0 +1,13 @@
+.popular-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.single-actor{
+    display: flex;
+    flex-wrap: wrap;
+}
+.actors-container{
+    margin-top: 40px;
+    padding-left: 15px;
+    border-right: 1px dotted whitesmoke;
+}
